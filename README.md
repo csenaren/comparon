@@ -39,4 +39,4 @@ npm run build
 - Images should be placed in `src/images/` folder
 
 ## Live Demo
-[View on Netlify](https://your-comparon-app.netlify.app) | [GitHub Pages](https://your-username.github.io/comparon)
+**👉 [View Live on Vercel](https://comparon-git-main-csenaren-gmailcoms-projects.vercel.app/)**
